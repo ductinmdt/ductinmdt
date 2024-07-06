@@ -8,8 +8,11 @@ Hello! I'm Tin, a Full Stack Developer specializing in building seamless user ex
 
 </div>
 
-<div align="center">
+
 ## Programming Languages and Tools
+
+
+<div align="center">
   
 ![React](https://skillicons.dev/icons?i=react)
 ![JavaScript](https://skillicons.dev/icons?i=js)
