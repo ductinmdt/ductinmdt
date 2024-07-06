@@ -2,6 +2,7 @@
 Hello! I'm Tin, a Full Stack Developer specializing in building seamless user experiences and efficient backend systems.
 
 
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&bg_color=ffffff&border_color=e1e4e8)
@@ -10,7 +11,6 @@ Hello! I'm Tin, a Full Stack Developer specializing in building seamless user ex
 
 
 ## 🛠️ Programming Languages and Tools
-
 
 <div align="center">
   
