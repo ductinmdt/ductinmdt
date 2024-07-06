@@ -2,7 +2,9 @@
 
 Hello! I'm Ductinmdt, a Full Stack Developer specializing in building seamless user experiences and efficient backend systems.
 
-## 🛠️ Skills
+## 🛠️ Programming Languages and Tools
+
+<div align="center">
 
 ![React](https://skillicons.dev/icons?i=react)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -18,10 +20,12 @@ Hello! I'm Ductinmdt, a Full Stack Developer specializing in building seamless u
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
-## 📈 Most Used Languages
+</div>
 
-<div align="center">
-  
+## 📈
+
+<div align="center" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 5px;">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&hide_border=true)
 
 </div>
