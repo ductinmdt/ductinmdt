@@ -2,6 +2,8 @@
 
 Hello! I'm Ductinmdt, a Full Stack Developer specializing in building seamless user experiences and efficient backend systems.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=radical)
+
 ## 🛠️ Skills
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,10 +14,6 @@ Hello! I'm Ductinmdt, a Full Stack Developer specializing in building seamless u
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=radical)
 
 ## 📫 Contact
 
