@@ -9,7 +9,7 @@ Hello! I'm Tin, a Full Stack Developer specializing in building seamless user ex
 </div>
 
 
-## Programming Languages and Tools
+## 🛠️ Programming Languages and Tools
 
 
 <div align="center">
