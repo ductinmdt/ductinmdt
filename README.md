@@ -1,14 +1,18 @@
 # Welcome to My GitHub! 🚀
 
-Hello! I'm Ductinmdt, a Full Stack Developer specializing in building seamless user experiences and efficient backend systems.
+Hello! I'm Tin, a Full Stack Developer specializing in building seamless user experiences and efficient backend systems.
 
-## 🛠️ Programming Languages and Tools
+<div align="center" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 5px;">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&hide_border=true)
+
+</div>
 
 <div align="center">
-
+## Programming Languages and Tools
+  
 ![React](https://skillicons.dev/icons?i=react)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Ant Design](https://skillicons.dev/icons?i=antd)
 ![Material-UI](https://skillicons.dev/icons?i=materialui)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
@@ -22,20 +26,8 @@ Hello! I'm Ductinmdt, a Full Stack Developer specializing in building seamless u
 
 </div>
 
-## 📈
-
-<div align="center" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 5px;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&hide_border=true)
-
-</div>
-
 ## 📫 Contact
-
-[![Email](https://skillicons.dev/icons?i=email)](mailto:ductinmdt@example.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ductinmdt/)
-[![Portfolio](https://skillicons.dev/icons?i=github)](https://ductinmdt-portfolio.com)
-
 ---
 
 ⭐️ From [Ductinmdt](https://github.com/ductinmdt)
