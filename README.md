@@ -2,9 +2,9 @@
 
 Hello! I'm Tin, a Full Stack Developer specializing in building seamless user experiences and efficient backend systems.
 
-<div align="center" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 5px;">
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&hide_border=true&bg_color=ffffff&border_color=e1e4e8)
 
 </div>
 
