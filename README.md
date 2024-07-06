@@ -4,7 +4,7 @@ Hello! I'm Tin, a Full Stack Developer specializing in building seamless user ex
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&border_color=e4e2e2&bg_color=ffffff&border_color=e1e4e8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductinmdt&layout=compact&theme=default&bg_color=ffffff&border_color=e1e4e8)
 
 </div>
 
